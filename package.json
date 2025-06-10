@@ -2,15 +2,16 @@
   "name": "fira-code-nerd-font",
   "displayName": "Fira Code Nerd Font / Icons",
   "description": "Use Nerd Font icons and install Fira Code",
-  "publisher": "entuent",
-  "repository": "https://github.com/intellis-team/fira-code-nerd-icons",
+  "publisher": "RM99",
+  "repository": "https://github.com/RandomMonkey99/fira-code-nerd-icons",
   "version": "0.0.3",
   "icon": "./icon.jpg",
   "engines": {
     "vscode": "^1.80.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Fonts"
   ],
   "contributes": {
     "iconThemes": [
